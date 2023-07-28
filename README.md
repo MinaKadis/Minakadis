@@ -8,7 +8,7 @@
 
 <br>
 
-- 🏫 I have `Graduated` at [Faculty of Computer Science](https://thebes.edu.eg/) at [Thebes Academy](https://thebes.edu.eg/).
+- 🏫 I have `Graduated` from [Faculty of Computer Science](https://thebes.edu.eg/) at [Thebes Academy](https://thebes.edu.eg/).
 - 🧑‍🎓 I’m currently Working as `Full Stack Developer` at [NahrDev](https://nahrdev.com/).
 - 🤔 this is [MY RESUME]().
 - 💬 Ask me about anything.
@@ -27,6 +27,7 @@
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
+    
 
     
 - **Front-End Development**:
@@ -48,6 +49,7 @@
     ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
     ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgreSQL&logoColor=white)
     ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+    ![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 
 - **Softwares and Tools**:
