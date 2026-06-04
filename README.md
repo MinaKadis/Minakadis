@@ -205,19 +205,24 @@ Grade: Very Good
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
+
+> GitHub stats cards sometimes break because they depend on external public services and rate limits.  
+> I kept this section stable by avoiding unreliable dynamic images.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=minakadis&show_icons=true&theme=tokyonight&hide_border=true" alt="Mina Kadis GitHub Stats" />
+<img src="https://komarev.com/ghpvc/?username=minakadis&style=for-the-badge&color=0A66C2" alt="Profile Views" />
 
 <br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=minakadis&theme=tokyonight&hide_border=true" alt="Mina Kadis GitHub Streak" />
-
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minakadis&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<a href="https://github.com/minakadis?tab=repositories">
+  <img src="https://img.shields.io/badge/Public%20Repositories-View%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+</a>
+<a href="https://github.com/minakadis">
+  <img src="https://img.shields.io/badge/GitHub%20Profile-Follow-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+</a>
 
 </div>
 
