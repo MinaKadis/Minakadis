@@ -207,9 +207,6 @@ Grade: Very Good
 
 ## 📊 GitHub Activity
 
-> GitHub stats cards sometimes break because they depend on external public services and rate limits.  
-> I kept this section stable by avoiding unreliable dynamic images.
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=minakadis&style=for-the-badge&color=0A66C2" alt="Profile Views" />
